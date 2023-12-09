@@ -1,0 +1,11 @@
+.home-image {
+    width: 30px;
+    height: 30px;
+  }
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  

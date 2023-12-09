@@ -1,0 +1,62 @@
+.login-background {
+    top: 0px;
+    left: 0px;
+    width: 360px;
+    height: 800px;
+    background: transparent linear-gradient(180deg, #000000 0%, #000e09 100%) 0%
+      0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border-radius: 28px;
+    height: 100vh;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #36a546cc;
+  }
+  
+  .input-text {
+    top: 336px;
+    left: 61px;
+    width: 238px;
+    height: 42px;
+    background: #1f191966 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 3px #fffdfd40, 3px 3px 3px #4a494947;
+    mix-blend-mode: normal;
+    opacity: 1;
+    border-width: 0px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+  }
+  .input-password {
+    top: 336px;
+    left: 61px;
+    width: 238px;
+    height: 42px;
+    background: #1f191966 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 3px 3px #fffdfd40, 3px 3px 3px #4a494947;
+    mix-blend-mode: normal;
+    opacity: 1;
+    padding: 10px;
+    border-width: 0px;
+    border-radius: 10px;
+    color: white;
+  }
+  
+  .login-btn {
+    top: 492px;
+    left: 61px;
+    width: 238px;
+    height: 42px;
+    background: transparent
+      linear-gradient(180deg, #00ff2580 0%, #000000 100%, #36a54680 100%) 0% 0%
+      no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8cff0026;
+    opacity: 1;
+    border-width: 0px;
+    border-radius: 12px;
+  }
+  
